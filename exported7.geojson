@@ -9,7 +9,16 @@
                 [16.472282, 49.644214],
                 [16.472517, 49.644459]
             ]
-        }
+        },
+        "style": {
+        "__comment": "all SVG styles allowed",
+        "fill":"red",
+        "stroke-width":"3",
+        "fill-opacity":0.6
+    },
+    "className": {
+        "baseVal":"A class name"
+    }
     }, {
         "type": "feature",
         "properties": {},
