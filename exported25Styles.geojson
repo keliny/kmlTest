@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "style": {
-    "stroke": "black"
+    "stroke": "purple"
   },
   "features": [{
       "type": "feature",
